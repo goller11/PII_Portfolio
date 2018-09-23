@@ -18,10 +18,14 @@
 
 *Fueron vistos dos videos para introducir la interacción con GitHub desde Visual Studio Code y con GitHub Desktop.* 
 
-## Quinta semana: Interfaces y genéricos. (3/09 - 5/09 - 7/09)
+## Quinta semana: Interfaces, genéricos y polimorfismo. (3/09 - 5/09 - 7/09)
+
+*Se dio introducción a las interfaces, a los genéricos y al polimorfismo, los cuales se ubican dentro de los tipos.*
 
 ## Sexta semana: Herencia. (10/09 - 12/09 - 14/09)
 
 ## Séptima semana: Composición y delegación. (17/09 - 19/09 - 21/09)
+
+## Octava semana: (24/09 - 26/09 - 28/09)
 
 
