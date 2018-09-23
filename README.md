@@ -24,6 +24,8 @@
 
 ## Sexta semana: Herencia. (10/09 - 12/09 - 14/09)
 
+*La herencia es un mecanismo de los lenguajes de programación para implementar declarativamente relaciones de generalización entre una o más clases bases y una o más clases sucesoras.*
+
 ## Séptima semana: Composición y delegación. (17/09 - 19/09 - 21/09)
 
 ## Octava semana: (24/09 - 26/09 - 28/09)
