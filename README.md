@@ -18,7 +18,7 @@
 
 *Fueron vistos dos videos para introducir la interacción con GitHub desde Visual Studio Code y con GitHub Desktop.* 
 
-## Quinta semana: Observer y provider (3/09 - 5/09 - 7/09)
+## Quinta semana: Interfaces y genéricos. (3/09 - 5/09 - 7/09)
 
 ## Sexta semana: Herencia. (10/09 - 12/09 - 14/09)
 
