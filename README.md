@@ -28,6 +28,8 @@
 
 ## Séptima semana: Composición y delegación. (17/09 - 19/09 - 21/09)
 
-## Octava semana: (24/09 - 26/09 - 28/09)
+## Octava semana: Patrón Creator y Principio Abierto - Cerrado (24/09 - 26/09 - 28/09)
+
+*Continuamos trabajando con la composición y delegación de la semana anterior y empezamos a trabajar con un nuevo patrón y el principio abierto-cerrado.*
 
 
