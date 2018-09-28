@@ -32,4 +32,6 @@
 
 *Continuamos trabajando con la composición y delegación de la semana anterior y empezamos a trabajar con un nuevo patrón y el principio abierto-cerrado.*
 
+*Aprendimos algunos conceptos como composición y delegación, herencia, los cuales fueron aplicados a la aplicación de filtros y al reconocimiento de caras.*
+
 
