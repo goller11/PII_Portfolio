@@ -28,10 +28,15 @@
 
 ## Séptima semana: Composición y delegación. (17/09 - 19/09 - 21/09)
 
-## Octava semana: Patrón Creator y Principio Abierto - Cerrado (24/09 - 26/09 - 28/09)
+*Aprendimos algunos conceptos como composición y delegación, y seguimos trabajando con herencia, los cuales fueron aplicados a la aplicación de filtros y al reconocimiento de caras.*
 
-*Continuamos trabajando con la composición y delegación de la semana anterior y empezamos a trabajar con un nuevo patrón y el principio abierto-cerrado.*
+## Octava semana: Composición y delegación. (24/09 - 26/09 - 28/09)
 
-*Aprendimos algunos conceptos como composición y delegación, herencia, los cuales fueron aplicados a la aplicación de filtros y al reconocimiento de caras.*
+*Seguimos trabajando con los conceptos de composición y delegación.*
+
+## Novena semana: Patron Creator y Principio Abierto - Cerrado (1/10 - 3/10 - 5/10)
+
+
+
 
 
