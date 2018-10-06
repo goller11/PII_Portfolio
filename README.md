@@ -36,6 +36,8 @@
 
 ## Novena semana: Patron Creator y Principio Abierto - Cerrado (1/10 - 3/10 - 5/10)
 
+*Se trabajó en base al principio, de manera de no modificar lo otorgado por los profesores.*
+
 
 
 
