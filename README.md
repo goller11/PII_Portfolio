@@ -34,9 +34,12 @@
 
 *Seguimos trabajando con los conceptos de composición y delegación.*
 
-## Novena semana: Patron Creator y Principio Abierto - Cerrado (1/10 - 3/10 - 5/10)
+## Novena semana: Patron Creator y Principio Abierto - Cerrado. Excepciones (1/10 - 3/10 - 5/10)
 
 *Se trabajó en base al principio, de manera de no modificar lo otorgado por los profesores.*
+*Comenzamos a aprender la utilizacion del manejo de **excepciones** y sus beneficios para asegurarnos el correcto funcionamiento de nuestros programas*
+
+## Décima semana: (8/10 - 10/10 - 12/10)
 
 
 
