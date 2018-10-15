@@ -42,6 +42,10 @@
 
 ## Décima semana: Avance de proyecto. (8/10 - 10/10 - 12/10)
 
+*En esta décima semana se trató de avanzar en el proyecto de manera de terminar de cara a la entrega del 21. Separación en 2 sub-equipos, junto con Pablo realizamos una de las actividades de las letras, y Julio, Camila y Camilo realizaron la alimentación saludable.*
+
+## Décima primera semana: Avance del proyecto. (15/10 - 17/10 - 19/10)
+
 
 
 
