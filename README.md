@@ -46,6 +46,10 @@
 
 ## Décima primera semana: Avance del proyecto. (15/10 - 17/10 - 19/10)
 
+*Se avanzó en el proyecto de cara a la segunda entrega.*
+
+## Décima segunda semana: (22/10 - 24/10 - 26/10)
+
 
 
 
