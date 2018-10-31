@@ -48,8 +48,11 @@
 
 *Se avanzó en el proyecto de cara a la segunda entrega.*
 
-## Décima segunda semana: (22/10 - 24/10 - 26/10)
+## Décima segunda semana: Principios DIP e ISP. (22/10 - 24/10 - 26/10)
 
+*Se trabajó con los principios DIP e ISP.*
+
+## Décima tercer semana: Principios DIP e ISP. ¿Avance de proyecto? (29/10 - 31/10)
 
 
 
