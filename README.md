@@ -52,9 +52,11 @@
 
 *Se trabajó con los principios DIP e ISP.*
 
-## Décima tercer semana: Principios DIP e ISP. ¿Avance de proyecto? (29/10 - 31/10)
+## Décima tercer semana: Avance de proyecto. (29/10 - 31/10)
 
 ## Décima cuarta semana: Proyecto. (5/11 - 7/11 - 9/11)
+
+## Décima quinta semana: Proyecto. (12/11 - 14/11 - 16/11)
 
 
 
