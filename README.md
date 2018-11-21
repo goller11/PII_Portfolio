@@ -34,6 +34,7 @@
 
 *Seguimos trabajando con los conceptos de composición y delegación.*
 
+## Primer entrega del proyecto - 30/09
 ## Novena semana: Patron Creator, Principio Abierto - Cerrado, Excepciones. (1/10 - 3/10 - 5/10)
 
 *Se trabajó en base al principio, de manera de no modificar lo otorgado por los profesores.*
@@ -48,16 +49,18 @@
 
 *Se avanzó en el proyecto de cara a la segunda entrega.*
 
+## Segunda entrega del proyecto - 21/10
+
 ## Décima segunda semana: Principios DIP e ISP. (22/10 - 24/10 - 26/10)
 
-*Se trabajó con los principios DIP e ISP.*
+*Se trabajó con los principios DIP e ISP. El ISP se utiliza cuando se quiere evitar que una clase dependa de tipos innecesarios para su funcionamiento. Por otro lado, el principio DIP señala que las clases de alto nivel no deben depender de clases de bajo nivel, sino que es más conveniente que ambas dependan de abstracciones.  *
 
-## Décima tercer semana: Avance de proyecto. (29/10 - 31/10)
+## Décima tercer semana: Proyecto. Ley de Demeter - Don't talk to strangers. (29/10 - 31/10 - 2/11)
 
 ## Décima cuarta semana: Proyecto. (5/11 - 7/11 - 9/11)
 
 ## Décima quinta semana: Proyecto. (12/11 - 14/11 - 16/11)
 
+## Tercer entrega del proyecto - 18/11
 
-
-
+## Décima sexta semana: Proyecto. (19/11 - 21/11 - 23/11)
