@@ -2,7 +2,7 @@
 
 ## Primer semana: Python a C#. (06/08 - 08/08 - 10/08)
 
-*Intentamos pasar programas realizados en Python a **C#**, mediante un material provisto por los profesores al inicio del curso.* 
+*Pasaje de programas realizados en Python a **C#**, mediante un material provisto por los profesores.* 
 
 ## Segunda semana: Objetos, clases y mensajes. (13/08 - 15/08 - 17/08)
 
@@ -16,7 +16,7 @@
 
 ## Cuarta semana: GitHub y control de versiones. (27/08 - 29/08 - 31/08)
 
-*Fueron vistos dos videos para introducir la interacción con GitHub desde Visual Studio Code y con GitHub Desktop.* 
+*Fueron vistos dos videos para introducir la interacción con **GitHub** desde Visual Studio Code y con GitHub Desktop.* 
 
 ## Quinta semana: Interfaces, genéricos y polimorfismo. (3/09 - 5/09 - 7/09)
 
@@ -40,7 +40,7 @@
 
 *Se trabajó en base al principio, de manera de no modificar lo otorgado por los profesores.*
 
-*Comenzamos a aprender la utilización del manejo de **excepciones** y sus beneficios para asegurarnos el correcto funcionamiento de nuestros programas, además de evitar el uso de los 'if'.*
+*Comenzamos a aprender la utilización del manejo de **excepciones** y sus beneficios para asegurarnos el correcto funcionamiento de nuestros programas, además de evitar el uso de los **if**.*
 
 ## Décima semana: Avance de proyecto. (8/10 - 10/10 - 12/10)
 
@@ -54,7 +54,7 @@
 
 ## Décima segunda semana: Principios DIP e ISP. (22/10 - 24/10 - 26/10)
 
-*Se trabajó con los principios DIP e ISP. El ISP se utiliza cuando se quiere evitar que una clase dependa de tipos innecesarios para su funcionamiento. Por otro lado, el principio DIP señala que las clases de alto nivel no deben depender de clases de bajo nivel, sino que es más conveniente que ambas dependan de abstracciones.  *
+*Se trabajó con los principios DIP e ISP. El ISP se utiliza cuando se quiere evitar que una clase dependa de tipos innecesarios para su funcionamiento. Por otro lado, el principio DIP señala que las clases de alto nivel no deben depender de clases de bajo nivel, sino que es más conveniente que ambas dependan de abstracciones.*
 
 ## Décima tercer semana: Proyecto. Ley de Demeter - Don't talk to strangers. (29/10 - 31/10 - 2/11)
 
