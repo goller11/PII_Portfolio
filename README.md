@@ -6,7 +6,7 @@
 
 ## Segunda semana: Objetos, clases y mensajes. (13/08 - 15/08 - 17/08)
 
-*Creación del primer programa **Hello World** mediante el uso de comandos ubicados en las tarjetas y fue otorgado un ejemplo de frases para introducir el tema. Damos introducción a los conceptos utilizados en programación orientada a objetos (POO).*
+*Creación del primer programa **Hello World** mediante el uso de comandos ubicados en las tarjetas. Damos introducción a los conceptos utilizados en programación orientada a objetos (POO).*
 
 ## Tercer semana: Patrones GRASP, patrón Expert, tarjetas CRC y Debugging. (20/08 - 22/08 - 24/08)
 
@@ -35,6 +35,7 @@
 *Seguimos trabajando con los conceptos de composición y delegación.*
 
 ## Primer entrega del proyecto - 30/09
+
 ## Novena semana: Patron Creator, Principio Abierto - Cerrado, Excepciones. (1/10 - 3/10 - 5/10)
 
 *Se trabajó en base al principio, de manera de no modificar lo otorgado por los profesores.*
@@ -56,6 +57,8 @@
 *Se trabajó con los principios DIP e ISP. El ISP se utiliza cuando se quiere evitar que una clase dependa de tipos innecesarios para su funcionamiento. Por otro lado, el principio DIP señala que las clases de alto nivel no deben depender de clases de bajo nivel, sino que es más conveniente que ambas dependan de abstracciones.  *
 
 ## Décima tercer semana: Proyecto. Ley de Demeter - Don't talk to strangers. (29/10 - 31/10 - 2/11)
+
+*Entre dos clases, una que requiere algo de la otra, se lo "pide" directamente, y no accede a las dependencias de dicha clase. Es correcto en código tener algo como A.B, pero no A.B.C. Tiene especial relacionamiento con el acoplamiento, siendo este bajo se cumplirá la Ley de Demeter.*
 
 ## Décima cuarta semana: Proyecto. (5/11 - 7/11 - 9/11)
 
