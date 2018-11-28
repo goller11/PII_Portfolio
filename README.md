@@ -67,3 +67,5 @@
 ## Tercer entrega del proyecto - 18/11
 
 ## Décima sexta semana: Proyecto. (19/11 - 21/11 - 23/11)
+
+## Décima séptima semana: Nada. Terminamos, jaja. 
